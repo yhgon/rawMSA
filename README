@@ -1,6 +1,6 @@
 # rawMSA: end-to-end Deep Learning makes protein sequence profiles and feature extraction obsolete
 
-This repository contain all the information about the datasets and the models used in the paper.
+This repository contain all the information about the datasets and the models used in the paper. You will need git LFS to clone the repository correctly (see: https://www.atlassian.com/git/tutorials/git-lfs)
 
 * The folder datasets contains the lists of proteins used in the 5-fold crossvalidation and the scripts necessary to produce the correct alignments and input files in the correct ".num" format
 * The folder scripts contains the python and bash scripts to run predictions and ensembling from the models
