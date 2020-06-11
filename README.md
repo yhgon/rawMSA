@@ -2,8 +2,8 @@
 
 this is fork from [official source](https://bitbucket.org/clami66/rawmsa/src/master/)
 
-This repository contain all the information about the datasets and the models used in the 
- [paper](https://www.biorxiv.org/content/10.1101/394437v2.full) 
+This repository contain all the information about the datasets and the models used in the paper
+ [ Claudio Mirabello, Björn Wallner, rawMSA: End-to-end Deep Learning Makes Protein Sequence Profiles and Feature Extraction obsolete doi: https://doi.org/10.1101/394437](https://www.biorxiv.org/content/10.1101/394437v2.full) 
  [pdf](https://www.biorxiv.org/content/10.1101/394437v2.full.pdf). 
 
 
