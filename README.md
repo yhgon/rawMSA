@@ -2,7 +2,9 @@
 
 this is fork from [official source](https://bitbucket.org/clami66/rawmsa/src/master/)
 
-This repository contain all the information about the datasets and the models used in the [paper](https://www.biorxiv.org/content/10.1101/394437v2.full)[pdf](https://www.biorxiv.org/content/10.1101/394437v2.full.pdf). 
+This repository contain all the information about the datasets and the models used in the 
+ [paper](https://www.biorxiv.org/content/10.1101/394437v2.full) 
+ [pdf](https://www.biorxiv.org/content/10.1101/394437v2.full.pdf). 
 
 
  * The folder datasets contains the lists of proteins used in the 5-fold crossvalidation and the scripts necessary to produce the correct alignments and input files in the correct ".num" format
